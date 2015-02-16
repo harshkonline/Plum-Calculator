@@ -1,0 +1,2 @@
+# Plum-Calculator
+Implemented a plum calculator android application. Developed the calculator UI and logic using android activities, layouts and UI elements. Calculator contains a number pad and supports multiple operations and commands. It contains a display for displaying the numbers up to 7 digit length with leading zeros getting discarded. Calculator is able to handle multiple operations in a sequence and it only uses the last operand if multiple operands are entered consecutively. Error handling and self-correction was also well taken care of. 
